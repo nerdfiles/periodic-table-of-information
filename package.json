@@ -1,0 +1,26 @@
+{
+  "name": "periodic-table-of-information",
+  "version": "0.0.1",
+  "description": "The Periodic Table of Information is a Dual-Aspect Spinozistic Interpretation of Cyberspace",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nerdfiles",
+  "license": "WTFPL",
+  "devDependencies": {
+    "babel-cli": "^6.16.0",
+    "babel-preset-es2015": "^6.16.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "docopt-js": "^1.0.1",
+    "math-float64-log1p": "^1.0.1",
+    "promise-defer": "^1.0.0",
+    "request": "^2.75.0"
+  }
+}
