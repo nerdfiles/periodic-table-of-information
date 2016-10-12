@@ -91,7 +91,7 @@ layers:
 
 ### Lattice
 
-<img src="" />
+<img src="https://raw.githubusercontent.com/nerdfiles/periodic-table-of-information/master/docs/images/discovery-modeling.png" />
 
 ### Status
 
@@ -114,3 +114,9 @@ layers:
 ### Client
 
 ### Wallet
+
+### Download
+
+### Inspector
+
+### Surfer
