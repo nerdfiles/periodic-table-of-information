@@ -13,6 +13,9 @@ through its transaction artifact mass, mathematically formalized as an
 orthonormal periodic projectivization of Abelian homomorphic groups binding
 amplification symmetries between cyberspaces.
 
+Ultimately PTI will be a specification for potentially server-less and
+domain-less cyberspaces.
+
 ## Layers
 
 The fact that there are 5 layers is not coincidental. We have the following
