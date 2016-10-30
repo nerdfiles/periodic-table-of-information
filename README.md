@@ -114,7 +114,7 @@ const mm = new MediaModel();
 
 mm.lend([
   '3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy',
-  '3nUviecrnyi28t1opEZ73CNUjwajhkeLua'
+  '3nUhem482ki28t1opR893aqUjwajhkeLua'
 ]).log()
   .done((mm) => {
     console.log(mm._transactions);
