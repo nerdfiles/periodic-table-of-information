@@ -109,6 +109,20 @@ layers:
 
 ### Status
 
+```
+const mm = new MediaModel();
+
+mm.lend([
+  '3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy',
+  '3nUviecrnyi28t1opEZ73CNUjwajhkeLua'
+]).log()
+  .done((mm) => {
+    console.log(mm._transactions);
+  }).error((error) => {
+    console.log(error);
+  })
+```
+
 ### Groups
 
 ## Core
