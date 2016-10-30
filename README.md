@@ -120,7 +120,7 @@ mm.lend([
     console.log(mm._transactions);
   }).error((error) => {
     console.log(error);
-  })
+  });
 ```
 
 ### Groups
