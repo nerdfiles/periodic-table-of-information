@@ -109,7 +109,7 @@ layers:
 
 ### Status
 
-```
+```javascript
 const mm = new MediaModel();
 
 mm.lend([
