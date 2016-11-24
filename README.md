@@ -20,6 +20,8 @@ PTI is an extension to <a href="http://amundsen.com/hypermedia/hfactor/">HFactor
 
 Enjoy your next digital economy. Thanks for all the "opportunities."
 
+I suppose one cannot ask for more when fear is the primary mode of motivation, right?
+
 ## Layers
 
 The fact that there are 5 layers is not coincidental. We have the following
