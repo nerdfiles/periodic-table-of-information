@@ -16,6 +16,8 @@ amplification symmetries between cyberspaces.
 Ultimately PTI will be a specification for potentially server-less and
 domain-less cyberspaces.
 
+PTI is an extension to <a href="http://amundsen.com/hypermedia/hfactor/">HFactor</a> by Mike Amundsen.
+
 ## Layers
 
 The fact that there are 5 layers is not coincidental. We have the following
