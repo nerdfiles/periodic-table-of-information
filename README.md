@@ -16,7 +16,9 @@ amplification symmetries between cyberspaces.
 Ultimately PTI will be a specification for potentially server-less and
 domain-less cyberspaces.
 
-PTI is an extension to <a href="http://amundsen.com/hypermedia/hfactor/">HFactor</a> by Mike Amundsen.
+PTI is an extension to <a href="http://amundsen.com/hypermedia/hfactor/">HFactor</a> by Mike Amundsen, and the original codebase I started stealing from is <a href="https://www.openchain.org/">Openchain</a>.
+
+Enjoy your next digital economy.
 
 ## Layers
 
