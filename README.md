@@ -18,7 +18,7 @@ domain-less cyberspaces.
 
 PTI is an extension to <a href="http://amundsen.com/hypermedia/hfactor/">HFactor</a> by Mike Amundsen, and the original codebase I started stealing from is <a href="https://www.openchain.org/">Openchain</a>. And I have talked about <a href="https://www.npmjs.com/package/dualapi">DualAPI</a> for other reasons that I thought to be relevant.
 
-Enjoy your next digital economy.
+Enjoy your next digital economy. Thanks for all the "opportunities."
 
 ## Layers
 
