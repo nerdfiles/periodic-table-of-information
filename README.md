@@ -16,16 +16,6 @@ amplification symmetries between cyberspaces.
 Ultimately PTI will be a specification for potentially server-less and
 domain-less cyberspaces.
 
-## Dependencies
-
-1. PTI is an extension to <a href="http://amundsen.com/hypermedia/hfactor/">HFactor</a> by Mike Amundsen.
-2. Sidechaining via <a href="https://www.openchain.org/">Openchain</a> by Flavion Charlon.
-3. Messaging via <a href="https://www.npmjs.com/package/dualapi">DualAPI</a> by Paul Ledbetter.
-4. Cryptocurrency via <a href="https://cryptonote.org/">CryptoNote</a>.
-5. Front end in AngularJS.
-6. Backend in Bedquilt/PostgreSQL.
-7. Tooling, servers, etc. in Node.js (Express, Confidence, Winston, etc.).
-
 ## Layers
 
 The fact that there are 5 layers is not coincidental. We have the following
@@ -158,3 +148,15 @@ mm.lend([
 ### Inspector
 
 ### Surfer
+
+## Dependencies
+
+1. PTI is an extension to <a href="http://amundsen.com/hypermedia/hfactor/">HFactor</a> by Mike Amundsen.
+2. Sidechaining via <a href="https://www.openchain.org/">Openchain</a> by Flavion Charlon.
+3. Messaging via <a href="https://www.npmjs.com/package/dualapi">DualAPI</a> by Paul Ledbetter.
+4. Cryptocurrency via <a href="https://cryptonote.org/">CryptoNote</a>.
+5. Front end in <a href="https://angularjs.org/">AngularJS 1</a> with <a href="http://sass-lang.com/">SASS</a> and <a href="https://www.w3.org/TR/2016/WD-html51-20160310/changes.html">HTML 5.1</a>.
+6. Backend in <a href="https://bedquiltdb.github.io/">BedquiltDB</a>/<a href="https://www.postgresql.org/">PostgreSQL</a>.
+7. Services in <a href="http://senecajs.org/">Seneca</a>
+8. Tooling, servers, etc. in Node.js (<a href="http://expressjs.com/">Express</a>, <a href="https://github.com/hapijs/confidence">Confidence</a>, <a href="https://github.com/winstonjs/winston">Winston</a>, <a href="http://gruntjs.com/">GruntJS</a>, etc.).
+
