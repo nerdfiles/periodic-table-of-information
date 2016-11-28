@@ -16,11 +16,15 @@ amplification symmetries between cyberspaces.
 Ultimately PTI will be a specification for potentially server-less and
 domain-less cyberspaces.
 
-PTI is an extension to <a href="http://amundsen.com/hypermedia/hfactor/">HFactor</a> by Mike Amundsen, and the original codebase I started stealing from is <a href="https://www.openchain.org/">Openchain</a>. And I have talked about <a href="https://www.npmjs.com/package/dualapi">DualAPI</a> for other reasons that I thought to be relevant.
+## Dependencies
 
-Enjoy your next digital economy. Thanks for all the "opportunities."
-
-I suppose one cannot ask for more when fear is the primary mode of motivation, right?
+1. PTI is an extension to <a href="http://amundsen.com/hypermedia/hfactor/">HFactor</a> by Mike Amundsen.
+2. Sidechaining via <a href="https://www.openchain.org/">Openchain</a> by Flavion Charlon.
+3. Messaging via <a href="https://www.npmjs.com/package/dualapi">DualAPI</a> by Paul Ledbetter.
+4. Cryptocurrency via <a href="https://cryptonote.org/">CryptoNote</a>.
+5. Front End in AngularJS.
+6. Backend in Bedquilt/PostgreSQL.
+7. Tooling, etc. in Node.js.
 
 ## Layers
 
