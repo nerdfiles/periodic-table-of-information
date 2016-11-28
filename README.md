@@ -24,7 +24,7 @@ domain-less cyberspaces.
 4. Cryptocurrency via <a href="https://cryptonote.org/">CryptoNote</a>.
 5. Front end in AngularJS.
 6. Backend in Bedquilt/PostgreSQL.
-7. Tooling, servers, etc. in Node.js.
+7. Tooling, servers, etc. in Node.js (Express, Confidence, Winston, etc.).
 
 ## Layers
 
