@@ -22,7 +22,7 @@ domain-less cyberspaces.
 2. Sidechaining via <a href="https://www.openchain.org/">Openchain</a> by Flavion Charlon.
 3. Messaging via <a href="https://www.npmjs.com/package/dualapi">DualAPI</a> by Paul Ledbetter.
 4. Cryptocurrency via <a href="https://cryptonote.org/">CryptoNote</a>.
-5. Front End in AngularJS.
+5. Front end in AngularJS.
 6. Backend in Bedquilt/PostgreSQL.
 7. Tooling, etc. in Node.js.
 
