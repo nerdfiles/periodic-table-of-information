@@ -14,7 +14,7 @@ orthonormal periodic projectivization of Abelian homomorphic groups binding
 amplification symmetries between cyberspaces.
 
 Ultimately PTI will be a specification for potentially server-less and
-domain-less cyberspaces.
+domain-less cyberspaces. Core concepts derived from <a href="https://www.google.com/patents/US7774388">Model of Everything</a>.
 
 ## Layers
 
