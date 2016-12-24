@@ -17,14 +17,14 @@ Ultimately PTI will be a specification for potentially server-less, domain-less,
 
 ## Information Basics
 
-For cyberspaces, minimal and maximal procedures of truth given the discernment 
+For [cyberspaces][schedgmule], minimal and maximal procedures of truth given the discernment 
 and classification of data, such that it is necessarily and sufficiently 
 distinguished from information. That said, information is defined by the
 following metastructural specification for infocologically-sane cyberspaces.
 
 ### Deflationary Orders of Trust
 
-[Information][schedgmule], i, is
+[Information][ccp], i, is
 
     timeless        factivity order
     versionless     motive order
@@ -249,3 +249,4 @@ mm.lend([
 11. And more TBD...
 
 [schedgmule]: https://gitlab.com/nerdfiles/schedgmule.com/raw/master/DOCUMENTATION.pdf
+[ccp]: https://gist.githubusercontent.com/nerdfiles/20f58d0b9f12952de85cff10ef96599d/raw/b9e4c4277f2df1d56468d23ca5c0fb0b009241bf/common-consensus-protocols.md
