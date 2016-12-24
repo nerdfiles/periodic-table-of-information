@@ -24,7 +24,7 @@ following metastructural specification for infocologically-sane cyberspaces.
 
 ### Deflationary Orders of Trust
 
-Information, i, is
+[Information][schedgmule], i, is
 
     timeless        factivity order
     versionless     motive order
@@ -92,6 +92,14 @@ periodically homonomic phenomena, the enervesen{{{{
 ### Steganographic Projection from Cybernetic Spheres
 
 ### Banach Space Projection
+
+### Information Life
+
+Beliefs and aliefs are cast along the dimensions of information life such that praxiological norms are verified by the assessment of linguistic constructs evidenced in the events of contextualized, localized, relevantized narratological discourse. Truth are designed within a consistent presentation and representation of procedures of truth.
+
+		Lm  cultural   economic   educational  societal
+		Lo  aesthetic  political  scientific   amorous
+		Lb  clerical   didactic   inaesthetic  romantic
 
 ## Layers
 
@@ -240,3 +248,4 @@ mm.lend([
 10. Digital signatures scheme WIP...
 11. And more TBD...
 
+[schedgmule]: https://gitlab.com/nerdfiles/schedgmule.com/raw/master/DOCUMENTATION.pdf
