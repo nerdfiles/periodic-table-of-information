@@ -35,15 +35,21 @@ As expression of support for the Chain of Trust.
 
 ### Value Layer
 
-Translate        Mt
+Translate [Mt]
 
-    <meta name="translate" content="PROTOCOL_VERSION"
+    <meta
+        name="translate"
+        content="PROTOCOL_VERSION"
+    />
 
-Peers            Mp
+Peers [Mp]
 
-    <meta name="peers" content="1SandCPeDm95MEXLzCkIKaWFBmK5vYNR81" />
+    <meta
+        name="peers"
+        content="1SandCPeDm95MEXLzCkIKaWFBmK5vYNR81,1ZingAkI72kmooZLzCkYLtYUYm8KvYNRER"
+    />
 
-#### Copy             Mc
+#### Copy [Mc]
 
 Copy specifies whether or not the given document is dependent on a full copy of
 the blockchain or a partial copy. That is to say, should the document follow the
@@ -52,21 +58,33 @@ copy of the blockchain database? The document itself determines which kinds of
 nodes are relevant to its life cycle along the lines of the pool servers that are
 available to make that life cycle possible.
 
-Copy should be specified in the <head> of an HTML document though the <meta> tag:
+Copy should be specified in the `<head>` of an HTML document though the `<meta>` tag:
 
-    <meta name="copy" content="full" />
+    <meta
+        name="copy"
+        content="full"
+    />
 
 Or for Solo Miners:
 
-    <meta name="copy" content="solo" />
+    <meta
+        name="copy"
+        content="solo"
+    />
 
 Or for SPVs:
 
-    <meta name="copy" content="spv" />
+    <meta
+        name="copy"
+        content="spv"
+    />
 
 Or for Reference Clients:
 
-    <meta name="copy" content="reference" />
+    <meta
+        name="copy"
+        content="reference"
+    />
 
 Block            Mb
 
@@ -74,14 +92,19 @@ Block can be somewhat misleading. It actually refers to `merkelblock` which iden
 the block header and the merkel path that links a transaction of interest to the merkle
 root in the block.
 
-    <meta name="block" content="000000000000004c296e6376db3a241271f43fd3f5de7ba18986e517a243baa7" />
+    <meta
+        name="block"
+        content="d47780c084bad3830bcdaf6eace035e4c6cbf646d103795d22104fb105014ba3" />
 
 Diminution       Md
 
 Diminution is concerned with explicitly identifying the Target Difficulty of
 the given document insofar as its threshold considerations in the PoW.
 
-    <meta name="diminution" content="0000000000000003A30C00000000000000000000000000000000000000000000" />
+    <meta
+        name="diminution"
+        content="0000000000000003A30C00000000000000000000000000000000000000000000"
+    />
 
 #### More Details
 
