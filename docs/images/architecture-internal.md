@@ -128,6 +128,17 @@ Full nodes can autonomously and authoritatively verify any transaction without e
 
 ### Attribution Layer
 
+Currently the following are merely examples of the relevant atomic elements which might pertain to the given meta-elements. So we might consider:
+
+    <head>
+        <meta
+            name="identity:fingerprint"
+            content="{{value}}"
+        />
+    </head>
+
+At the present time it is not entirely clear how `Type` and `Verb` might be delineated according to this specification; however, what is imagined is that any entity or asset which can be described in a cryptographic ledger for trading purposes, etc., should possess its own web page (likely an HTML representation). Accessing "raw images" for instance should never happen, and even considering entities like `/helicopter` should be context-free in its principle description, even if it might never be accessed outside of a domain, its description language should principally support domain-less attribution.
+
 #### Identity [Ai]
 
     <meta
