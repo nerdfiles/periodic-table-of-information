@@ -206,7 +206,7 @@ See [InteractionCounter](https://schema.org/InteractionCounter).
 
 #### Verb             [Aa]
 
-See [Action](https://schema.org/Action). (If it helps, then of the verb `to page` as in `to page someone`; now `to web page`. This should help with thinking about the ontology pertaining to https://schema.org/WebPage). Now then we might think of Web Pagers as the most basic metaphor for the capabilities of a web page, insofar as a web pages most basic use-case. That said, pages are the most accessible and usable devices ever created from a cognitive to ergonomic standpoint.
+See [Action](https://schema.org/Action). (If it helps, think of the verb `to page` as in `to page someone`; now `to web page`. This should help with thinking about the ontology pertaining to https://schema.org/WebPage). Now then we might think of Web Pagers as the most basic metaphor for the capabilities of a web page, insofar as a web pages most basic use-case. That said, pages are the most accessible and usable devices ever created from a cognitive to ergonomic standpoint.
 
 #### Method           [Am]
 
