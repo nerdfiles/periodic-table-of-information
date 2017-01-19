@@ -126,10 +126,27 @@ Full nodes can autonomously and authoritatively verify any transaction without e
 
 ### Attribution Layer
 
-Identity         Ai
-Type             At
-Verb             Aa
-Method           Am
+#### Identity [Ai]
+
+    <meta
+        name="fingerprint"
+        content="public_key"
+    />
+
+#### Type [At]
+
+See [InteractionCounter](https://schema.org/InteractionCounter).
+
+#### Verb [Aa]
+
+See [Action](https://schema.org/Action).
+
+#### Method [Am]
+
+    <meta
+        name="csrf-token"
+        content=""
+    />
 
 __
 * Depends on Availability Confidence Model

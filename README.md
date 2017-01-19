@@ -17,8 +17,8 @@ Ultimately PTI will be a specification for potentially server-less, domain-less,
 
 ## Information Basics
 
-For [cyberspaces][schedgmule], minimal and maximal procedures of truth given the discernment 
-and classification of data, such that it is necessarily and sufficiently 
+For [cyberspaces][schedgmule], minimal and maximal procedures of truth given the discernment
+and classification of data, such that it is necessarily and sufficiently
 distinguished from information. That said, information is defined by the
 following metastructural specification for infocologically-sane cyberspaces.
 
@@ -60,18 +60,18 @@ trustless, domainless, passwordless, and modeless.
 
 A cyberspace of information exchanges would be maximally egalitarian if
 all information exchanges are constructivistically enforced through
-the aforementioned protocols. Properties of a maximally egalitarian 
+the aforementioned protocols. Properties of a maximally egalitarian
 information network confers certain properties such as censorship-resistence,
 antifragility, decentralization, reality (this-ness), supervenience,
 trans-world identity, certainty, etc.
 
 A digression might be in order. When one interacts with a coin or a paperclip
-serendipitously along a sidewalk, interaction with this item can be said to 
-be meaningful or non-meaningful, but only if that interaction can be said to 
+serendipitously along a sidewalk, interaction with this item can be said to
+be meaningful or non-meaningful, but only if that interaction can be said to
 be purposeful or non-purposeful. For information reference architectures the
-genericity of these procedures of truth cohere with the non-reducible 
-categories of discernment and classification. Maximally ascertained, an 
-event in either the celestial spheres or in cyberspaces can be said to be 
+genericity of these procedures of truth cohere with the non-reducible
+categories of discernment and classification. Maximally ascertained, an
+event in either the celestial spheres or in cyberspaces can be said to be
 meaningful; maximally classified, an event in either the spheres or spaces
 can be said to be purposeful. With these distinctions we formalize the basis
 of distinguishing holonomic and non-holonomic descriptions of spacetime,
