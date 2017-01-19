@@ -81,7 +81,7 @@ Diminution       Md
 Diminution is concerned with explicitly identifying the Target Difficulty of
 the given document insofar as its threshold considerations in the PoW.
 
-    <meta name="diminution" content="000000000000004c296e6376db3a241271f43fd3f5de7ba18986e517a243baa7" />
+    <meta name="diminution" content="0000000000000003A30C00000000000000000000000000000000000000000000" />
 
 #### More Details
 
