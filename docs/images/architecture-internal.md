@@ -2,6 +2,12 @@
 
 PTI is largely concerned with providing a specification for HTML to dictate how it is to be treated in a fully peer-2-peer network of cryptographic miners which might also support cryptographic messaging for OTR purposes. We combine the concepts of PGP with public domain actions to formalize behaviors irrespective to their visibility or anonymity. Actions as microdata make sense from an architectural standpoint whether on the Open Web or Dark Web, but we seek to describe how PGP standards can be allotted "rooms" through disitributed ledger technologies. How can we achieve ephemeral message passing such that a conversation provably did not happen? This is the goal of PTI.
 
+Searching trees is what is imagined the Discovery layer of PTI specifies, in accordance with worst-case practical Byzantine fault tolerance; pruning and searching trees of HTTP Statuses: (201 + 304 + 500) is a path that has a deterministic resolution but 500 has a fixed timeout, 201 might not have a fixed timeout because an entity is created, 304 might not have a fixed timeout, etc. https://httpstatuses.com/
+
+And all of this has a cost which can be accounted for in a blockchain so to determine how much service time is needed to support an OTR conversation between certain public identities along an authentication path.
+
+I'm imagining "web applications" are things like https://GIS_ID.grocery.store/ID/isle/2 and I can have an OTR conversation with every item in the isle that provably does not occur. Ultimately things like "kroger.com" become increasingly meaningless. Hierarchies and ownership become increasingly meaningless as each item in the isle can have a public key such that the /isle/ is a room. Hypermedia as the engine of application state would specify then that /isle/next means I move from one room to the next such that a series of HTTP statuses deterministically resolution to a merkle root which can be specified in HTML pages given a target difficulty on the antichain.
+
 ## Hypermedia Factors
 
 As expression of support for the Web of Trust.
