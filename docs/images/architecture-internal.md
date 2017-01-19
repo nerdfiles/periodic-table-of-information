@@ -131,17 +131,11 @@ the given document insofar as its threshold considerations in the PoW.
 
 ##### Nodes
 
-All nodes validate and propagate transactions and blocks, and discover and maintain connections to peers. [Mastering Bitcoin]
-
 ###### Mining Nodes
-
-Mining nodes compete to create new blocks by running specialized hardware to solve the proof-of-work algorithm. Some mining nodes are also full nodes, maintaining a full copy of the blockchain while others are lightweight nodes participating in pool mining and depending on a pool server to maintain a full node. [Mastering Bitcoin]
 
 ###### Wallet Nodes
 
 ###### Full Nodes
-
-Full nodes can autonomously and authoritatively verify any transaction without external reference. [Mastering Bitcoin]
 
 ###### Routing Nodes
 
