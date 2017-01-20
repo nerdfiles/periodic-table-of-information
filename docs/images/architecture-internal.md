@@ -17,7 +17,16 @@ licensed to see the room. (For instance, [dualapi][dp] proves that the
 question of [WebSockets versus REST][wsvrest] can be reconciled. Another
 interesting point when it comes to REST requirements concerns Code on Demand
 which we find viable through RequireJS, also enabling [client-side hot
-re-loading][hot].
+re-loading][hot]. Generally we believe in
+
+1. _Configuration Over Convention_.
+2. _Uniformity Over Isomorphy_.
+3. _Hypermedia As the Engine of Application State_.
+
+The overall philosophy of PTI might be called _narratological functionalism_;
+or: _the discourse is the message_.
+
+## Kingdom of Parsers
 
 Searching trees is what is imagined the Discovery layer of PTI specifies, in
 accordance with worst-case practical Byzantine fault tolerance; pruning and
