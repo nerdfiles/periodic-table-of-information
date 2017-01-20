@@ -191,7 +191,8 @@ root in the block.
 
     <meta
         name="block"
-        content="d47780c084bad3830bcdaf6eace035e4c6cbf646d103795d22104fb105014ba3" />
+        content="d47780c084bad3830bcdaf6eace035e4c6cbf646d103795d22104fb105014ba3"
+    />
 
 #### Diminution       [Md]
 
