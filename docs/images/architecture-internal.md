@@ -14,7 +14,10 @@ I want to make `OP_RETURN` transactions to the Bitcoin blockchain and open
 rooms in an [HTTP-layering](layering) in a WebSocket such that the web page
 itself has a public key and the OP_RETURN contains a hash of the public keys
 licensed to see the room. (For instance, [dualapi][dp] proves that the
-question of [WebSockets versus REST][wsvrest] can be reconciled.
+question of [WebSockets versus REST][wsvrest] can be reconciled. Another
+interesting point when it comes to REST requirements concerns Code on Demand
+which we find viable through RequireJS, also enabling [client-side hot
+re-loading][hot].
 
 Searching trees is what is imagined the Discovery layer of PTI specifies, in
 accordance with worst-case practical Byzantine fault tolerance; pruning and
@@ -409,3 +412,4 @@ __
 [ccp]: https://gist.githubusercontent.com/nerdfiles/20f58d0b9f12952de85cff10ef96599d/raw/b9e4c4277f2df1d56468d23ca5c0fb0b009241bf/common-consensus-protocols.md
 [dp]: https://www.npmjs.com/package/dualapi
 [wsvrest]: https://www.infoq.com/news/2012/02/websockets-rest
+[hot]: https://medium.com/@the1mills/hot-reloading-with-react-requirejs-7b2aa6cb06e1#.y6mnt2cjp
