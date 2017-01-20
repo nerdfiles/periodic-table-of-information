@@ -66,8 +66,10 @@ timelessness, versionlessness, serverlessness, permissionlessness,
 tokenlessness, keylessness, trustlessness, domainlessness, passwordlessness,
 and modelessness. A fully-distributed system, then, must provably secure these
 properties as a coherent technological gestalt. Heidegger be damned! Long live
-Descriptivism! One benefit of bringing the web of such a nature to fruition is
-that the Anarchic Ideal should be achieved:
+Descriptivism!
+
+One benefit of bringing the web of such a nature to fruition is that the
+Anarchic Ideal should be achieved:
 
 <blockquote>
 <p>The future organization of society must proceed from the bottom up only,
