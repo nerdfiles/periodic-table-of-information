@@ -155,7 +155,7 @@ Find all people whose account numbers contain the digit “5”.
 
 #### Measurement Scenario
 
-    Given the page that a person’s name is on and their name, find the account number.
+Given the page that a person’s name is on and their name, find the account number.
 
 ### Confinement       [Co]
 
