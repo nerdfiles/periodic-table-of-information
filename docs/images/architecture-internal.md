@@ -1,14 +1,43 @@
 # Periodic Table of Information
 
-PTI is largely concerned with providing a specification for HTML to dictate how it is to be treated in a fully peer-2-peer network of cryptographic miners which might also support cryptographic messaging for OTR purposes. We combine the concepts of PGP with public domain actions to formalize behaviors irrespective to their visibility or anonymity. Actions as microdata make sense from an architectural standpoint whether on the Open Web or Dark Web, but we seek to describe how PGP standards can be allotted "rooms" through disitributed ledger technologies. How can we achieve ephemeral message passing such that a conversation provably did not happen? This is the goal of PTI.
+PTI is largely concerned with providing a specification for HTML to dictate
+how it is to be treated in a fully peer-2-peer network of cryptographic miners
+which might also support cryptographic messaging for OTR purposes. We combine
+the concepts of PGP with public domain actions to formalize behaviors
+irrespective to their visibility or anonymity. Actions as microdata make sense
+from an architectural standpoint whether on the Open Web or Dark Web, but we
+seek to describe how PGP standards can be allotted "rooms" through
+disitributed ledger technologies. How can we achieve ephemeral message passing
+such that a conversation provably did not happen? This is the goal of PTI.
 
-I want to make `OP_RETURN` transactions to the Bitcoin blockchain and open rooms in an [HTTP-layering](https://en.wikipedia.org/wiki/Representational_state_transfer#Layered_system) in a WebSocket such that the web page itself has a public key and the OP_RETURN contains a hash of the public keys licensed to see the room.
+I want to make `OP_RETURN` transactions to the Bitcoin blockchain and open
+rooms in an [HTTP-layering](layering) in a WebSocket such that the web page
+itself has a public key and the OP_RETURN contains a hash of the public keys
+licensed to see the room.
 
-Searching trees is what is imagined the Discovery layer of PTI specifies, in accordance with worst-case practical Byzantine fault tolerance; pruning and searching trees of HTTP Statuses: (201 + 304 + 500) is a path that has a deterministic resolution but 500 has a fixed timeout, 201 might not have a fixed timeout because an entity is created, 304 might not have a fixed timeout, etc. https://httpstatuses.com/
+Searching trees is what is imagined the Discovery layer of PTI specifies, in
+accordance with worst-case practical Byzantine fault tolerance; pruning and
+searching trees of HTTP Statuses: (201 + 304 + 500) is a path that has a
+deterministic resolution but 500 has a fixed timeout, 201 might not have a
+fixed timeout because an entity is created, 304 might not have a fixed timeout,
+etc. https://httpstatuses.com/
 
-And all of this has a cost which can be accounted for in a blockchain so to determine how much service time is needed to support an OTR conversation between certain public identities along an authentication path.
+And all of this has a cost which can be accounted for in a blockchain so to
+determine how much service time is needed to support an OTR conversation
+between certain public identities along an authentication path.
 
-I'm imagining "web applications" are things like https://GIS_ID.grocery.store/ID/isle/2 and I can have an OTR conversation with every item in the isle that provably does not occur. Ultimately things like "kroger.com" become increasingly meaningless. Hierarchies and ownership become increasingly meaningless as each item in the isle can have a public key such that the /isle/ is a room. Hypermedia as the engine of application state would specify then that /isle/next means I move from one room to the next such that a series of HTTP statuses deterministically resolution to a merkle root which can be specified in HTML pages given a target difficulty on the antichain.
+I'm imagining "web applications" are things like:
+
+    https://GIS_ID.grocery.store/ID/isle/2
+
+and I can have an OTR conversation with every item in the isle that provably
+does not occur. Ultimately things like "kroger.com" become increasingly
+meaningless. Hierarchies and ownership become increasingly meaningless as each
+item in the isle can have a public key such that the `/isle/` is a room.
+Hypermedia as the engine of application state would specify then that
+`/isle/next` means I move from one room to the next such that a series of HTTP
+statuses deterministically resolution to a merkle root which can be specified
+in HTML pages given a target difficulty on the antichain.
 
 ## Hypermedia Factors
 
@@ -21,17 +50,17 @@ devices." It's a matter of cryptographic narratological discourse.
 
 For our purposes we are absorbing the standards of the Web of Trust directly
 into our assessment of Hypermedia Factors. For instance, when we talk of a
-<foaf:Person> with <PubKey> we are also potentially talking about a [Person](https://schema.org/Person)
-of a public domain ontology. Our use of the term "Web of Trust" is not
-accidental or unintentional. Our effort is exactly to bridge WoT relations
-and events with Actions as they transpire on the web; more importantly, such
-actions bear direct consequences on the internal activities of peer-2-peer
-networks which might be supported by distributed cryptographic ledger
-technologies and blockchain technologies in terms of linking to public key
-signature events or linking to endorsement resources. The narration layer
-may very well link to a public key which corresponds to an identity (Ai)
-which might be scattered throughout web documents that are transactional
-in nature (are the result of transmedia factors).
+`<foaf:Person>` with `<PubKey>` we are also potentially talking about a
+[Person][P] of a public domain ontology. Our use of the term "Web of Trust" is
+not accidental or unintentional. Our effort is exactly to bridge WoT
+relations and events with Actions as they transpire on the web; more
+importantly, such actions bear direct consequences on the internal activities
+of peer-2-peer networks which might be supported by distributed cryptographic
+ledger technologies and blockchain technologies in terms of linking to public
+key signature events or linking to endorsement resources. The narration
+layer may very well link to a public key which corresponds to an identity
+(`Ai`) which might be scattered throughout web documents that are
+transactional in nature (are the result of transmedia factors).
 
 ### Context Layer
 
@@ -121,7 +150,8 @@ printed.
 
 #### Measurement Scenario
 
-Given the page that an organization’s name is on and the organization name, find the account number.
+Given the page that an organization’s name is on and the organization name,
+find the account number.
 
 ### Retry             [Rt]
 
@@ -157,7 +187,8 @@ Find all people whose account numbers contain the digit “5”.
 
 #### Measurement Scenario
 
-Given the page that a person’s name is on and their name, find the account number.
+Given the page that a person’s name is on and their name, find the account
+number.
 
 ### Confinement       [Co]
 
@@ -289,14 +320,22 @@ the given document insofar as its threshold considerations in the PoW.
 
 ### Attribution Layer
 
-Currently the following are merely examples of the relevant atomic elements which might pertain to the given meta-elements. So we might consider:
+Currently the following are merely examples of the relevant atomic elements
+which might pertain to the given meta-elements. So we might consider:
 
     <meta
         name="identity:fingerprint"
         content="{{value}}"
     />
 
-At the present time it is not entirely clear how `Type` and `Verb` might be delineated according to this specification; however, what is imagined is that any entity or asset which can be described in a cryptographic ledger for trading purposes, etc., should possess its own web page (likely an HTML representation). Accessing "raw images" for instance should never happen, and even considering entities like `/helicopter` should be context-free in its principle description, even if it might never be accessed outside of a domain, its description language should principally support domain-less attribution.
+At the present time it is not entirely clear how `Type` and `Verb` might be
+delineated according to this specification; however, what is imagined is that
+any entity or asset which can be described in a cryptographic ledger for
+trading purposes, etc., should possess its own web page (likely an HTML
+representation). Accessing "raw images" for instance should never happen, and
+even considering entities like `/helicopter` should be context-free in its
+principle description, even if it might never be accessed outside of a domain,
+its description language should principally support domain-less attribution.
 
 #### Identity         [Ai]
 
@@ -330,7 +369,7 @@ certificate's creation. So, a smart contract's compute depends not only on
 its internal logic, but its internal logic's processing depends on a certificate
 which might implicate the internal logic of another contract only through its
 relevant relationship certificate. With such an explicit constraint for cybernetic
-system are we able to realize [common consensus protocols](https://gist.githubusercontent.com/nerdfiles/20f58d0b9f12952de85cff10ef96599d/raw/b9e4c4277f2df1d56468d23ca5c0fb0b009241bf/common-consensus-protocols.md) as the
+system are we able to realize [common consensus protocols][ccp] as the
 assessment of platitudes of distributed consensus.
 
 The system is "cybernetic" insofar as its integration of homomorphic
@@ -346,14 +385,24 @@ See [InteractionCounter](https://schema.org/InteractionCounter).
 
 #### Verb             [Aa]
 
-See [Action](https://schema.org/Action). (If it helps, think of the verb `to page` as in `to page someone`; now `to web page`. This should help with thinking about the ontology pertaining to https://schema.org/WebPage). Now then we might think of Web Pagers as the most basic metaphor for the capabilities of a web page, insofar as a web pages most basic use-case. That said, pages are the most accessible and usable devices ever created from a cognitive to ergonomic standpoint.
+See [Action](https://schema.org/Action). (If it helps, think of the verb
+`to page` as in `to page someone`; now `to web page`. This should help with
+thinking about the ontology pertaining to https://schema.org/WebPage). Now
+then we might think of Web Pagers as the most basic metaphor for the
+capabilities of a web page, insofar as a web pages most basic use-case. That
+said, pages are the most accessible and usable devices ever created from a
+cognitive to ergonomic standpoint.
 
 #### Method           [Am]
 
     <meta
         name="method:csrf-token"
-        content=""
+        content="{{some_csrf_token}}"
     />
 
 __
 * Depends on Availability Confidence Model
+
+[layering]: https://en.wikipedia.org/wiki/Representational_state_transfer#Layered_system
+[P]: https://schema.org/Person
+[ccp]: https://gist.githubusercontent.com/nerdfiles/20f58d0b9f12952de85cff10ef96599d/raw/b9e4c4277f2df1d56468d23ca5c0fb0b009241bf/common-consensus-protocols.md
