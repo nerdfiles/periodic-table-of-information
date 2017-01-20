@@ -24,7 +24,9 @@ re-loading][hot]. Generally we believe in
 3. _Hypermedia As the Engine of Application State_.
 
 The overall philosophy of PTI might be called _narratological functionalism_;
-or: _the discourse is the message_.
+or: _the discourse is the message_. Critically, we *must not* allow the
+draconian telecommunications providers to dictate the level-of-support for
+the web, which is "fundamentally a distributed hypermedia application."
 
 ## Kingdom of Parsers
 
