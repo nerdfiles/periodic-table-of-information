@@ -90,7 +90,7 @@ in nature (are the result of transmedia factors).
 
 #### Modal Schema
 
-    ◊PK0   → □◊          (Euclidean key distribution)
+    ◊PK0 → □◊PK0      (Euclidean key distribution)
 
 #### Order of Platitude
 
