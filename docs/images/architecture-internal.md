@@ -13,7 +13,8 @@ such that a conversation provably did not happen? This is the goal of PTI.
 I want to make `OP_RETURN` transactions to the Bitcoin blockchain and open
 rooms in an [HTTP-layering](layering) in a WebSocket such that the web page
 itself has a public key and the OP_RETURN contains a hash of the public keys
-licensed to see the room.
+licensed to see the room. (For instance, [dualapi][dp] proves that the
+question of [WebSockets versus REST][wsvrest] can be reconciled.
 
 Searching trees is what is imagined the Discovery layer of PTI specifies, in
 accordance with worst-case practical Byzantine fault tolerance; pruning and
@@ -406,3 +407,5 @@ __
 [layering]: https://en.wikipedia.org/wiki/Representational_state_transfer#Layered_system
 [P]: https://schema.org/Person
 [ccp]: https://gist.githubusercontent.com/nerdfiles/20f58d0b9f12952de85cff10ef96599d/raw/b9e4c4277f2df1d56468d23ca5c0fb0b009241bf/common-consensus-protocols.md
+[dp]: https://www.npmjs.com/package/dualapi
+[wsvrest]: https://www.infoq.com/news/2012/02/websockets-rest
