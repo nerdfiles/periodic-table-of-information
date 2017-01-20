@@ -10,7 +10,26 @@ I'm imagining "web applications" are things like https://GIS_ID.grocery.store/ID
 
 ## Hypermedia Factors
 
-As expression of support for the Web of Trust.
+As expression of support for the [Web of Trust](http://xmlns.com/wot/0.1/). A
+bit of clarification might be in order. Users of PGP/GPG keys are typically
+described as "agents, persons, groups, or organizations." We might think these
+terms strictly grammatical or technical in nature, but assessing them with an
+epistemological eye we might recast them as "people, businesses, content, and
+devices." It's a matter of cryptographic narratological discourse.
+
+For our purposes we are absorbing the standards of the Web of Trust directly
+into our assessment of Hypermedia Factors. For instance, when we talk of a
+<foaf:Person> with <PubKey> we are also potentially talking about a [Person](https://schema.org/Person)
+of a public domain ontology. Our use of the term "Web of Trust" is not
+accidental or unintentional. Our effort is exactly to bridge WoT relations
+and events with Actions as they transpire on the web; more importantly, such
+actions bear direct consequences on the internal activities of peer-2-peer
+networks which might be supported by distributed cryptographic ledger
+technologies and blockchain technologies in terms of linking to public key
+signature events or linking to endorsement resources. The narration layer
+may very well link to a public key which corresponds to an identity (Ai)
+which might be scattered throughout web documents that are transactional
+in nature (are the result of transmedia factors).
 
 ### Context Layer
 
