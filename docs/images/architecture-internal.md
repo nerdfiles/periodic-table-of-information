@@ -2,6 +2,8 @@
 
 PTI is largely concerned with providing a specification for HTML to dictate how it is to be treated in a fully peer-2-peer network of cryptographic miners which might also support cryptographic messaging for OTR purposes. We combine the concepts of PGP with public domain actions to formalize behaviors irrespective to their visibility or anonymity. Actions as microdata make sense from an architectural standpoint whether on the Open Web or Dark Web, but we seek to describe how PGP standards can be allotted "rooms" through disitributed ledger technologies. How can we achieve ephemeral message passing such that a conversation provably did not happen? This is the goal of PTI.
 
+I want to make `OP_RETURN` transactions to the Bitcoin blockchain and open rooms in an [HTTP-layering](https://en.wikipedia.org/wiki/Representational_state_transfer#Layered_system) in a WebSocket such that the web page itself has a public key and the OP_RETURN contains a hash of the public keys licensed to see the room.
+
 Searching trees is what is imagined the Discovery layer of PTI specifies, in accordance with worst-case practical Byzantine fault tolerance; pruning and searching trees of HTTP Statuses: (201 + 304 + 500) is a path that has a deterministic resolution but 500 has a fixed timeout, 201 might not have a fixed timeout because an entity is created, 304 might not have a fixed timeout, etc. https://httpstatuses.com/
 
 And all of this has a cost which can be accounted for in a blockchain so to determine how much service time is needed to support an OTR conversation between certain public identities along an authentication path.
