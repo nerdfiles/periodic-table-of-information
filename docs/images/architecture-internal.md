@@ -26,7 +26,8 @@ re-loading][hot]. Generally we believe in
 The overall philosophy of PTI might be called _narratological functionalism_;
 or: _the discourse is the message_. Critically, we *must not* allow the
 draconian telecommunications providers to dictate the level-of-support for
-the web, which is "fundamentally a distributed hypermedia application."
+the web, which is "fundamentally a distributed hypermedia application" ([Taylor,
+Medividovic, Dashofy][dist]. 2010.).
 
 ## Kingdom of Parsers
 
@@ -55,6 +56,39 @@ statuses deterministically resolution to a merkle root which can be specified
 in HTML pages given a target difficulty on the antichain.
 
 ## Hypermedia Factors
+
+We adopt Mike Amundsen's [Hypermedia Factors][hfactor] for Hypermedia Types in
+order to achieve a description of Hypermedia Scale cyberspaces. Saving for
+a more fitting area for exposition, our notion of "cyberspace" begins with the
+assumption that _space is timeless_. More aptly, the features of cyberspaces
+which supervene on the web as a distributed hypermedia application are
+timelessness, versionlessness, serverlessness, permissionlessness,
+tokenlessness, keylessness, trustlessness, domainlessness, passwordlessness,
+and modelessness. A fully-distributed system, then, must provably secure these
+properties as a coherent technological gestalt. One benefit of bringing the
+web of such a nature to fruition is that the Anarchic Ideal should be achieved:
+
+<blockquote>
+<p>The future organization ofsociety must proceed from the bottom up only,
+through free association or federation of the workers, into their
+associations to begin with, then into communes, regions, nations and,
+nally, into a great international and universal federation.</p>
+<cite>Mikhail Bakunin</cite>
+</blockquote>
+
+Moreover, we are to achieve that _ideal of a society_ such that
+
+<blockquote>
+<p>It would not answer its purpose if it did not cover society with a network
+of thousands of associations to satisfy its thousand needs: the
+necessaries of life, articles of luxury, of study, enjoyment, amusements.</p>
+<cite>Mutual Aid. Petyr Kropotkin</cite>
+</blockquote>
+
+Thank goodness folks smarter than us have laid the groundwork for these natural
+extensions to the social ecology.
+
+### Notes on the "Web of Trust"
 
 As expression of support for the [Web of Trust](http://xmlns.com/wot/0.1/). A
 bit of clarification might be in order. Users of PGP/GPG keys are typically
@@ -418,9 +452,11 @@ cognitive to ergonomic standpoint.
 __
 * Depends on Availability Confidence Model
 
-[layering]: https://en.wikipedia.org/wiki/Representational_state_transfer#Layered_system
-[P]: https://schema.org/Person
-[ccp]: https://gist.githubusercontent.com/nerdfiles/20f58d0b9f12952de85cff10ef96599d/raw/b9e4c4277f2df1d56468d23ca5c0fb0b009241bf/common-consensus-protocols.md
-[dp]: https://www.npmjs.com/package/dualapi
-[wsvrest]: https://www.infoq.com/news/2012/02/websockets-rest
-[hot]: https://medium.com/@the1mills/hot-reloading-with-react-requirejs-7b2aa6cb06e1#.y6mnt2cjp
+[layering]:   https://en.wikipedia.org/wiki/Representational_state_transfer#Layered_system
+[P]:          https://schema.org/Person
+[ccp]:        https://gist.githubusercontent.com/nerdfiles/20f58d0b9f12952de85cff10ef96599d/raw/b9e4c4277f2df1d56468d23ca5c0fb0b009241bf/common-consensus-protocols.md
+[dp]:         https://www.npmjs.com/package/dualapi
+[wsvrest]:    https://www.infoq.com/news/2012/02/websockets-rest
+[hot]:        https://medium.com/@the1mills/hot-reloading-with-react-requirejs-7b2aa6cb06e1#.y6mnt2cjp
+[dist]:       http://www.softwarearchitecturebook.com/about-the-book/
+[hfactor]:    http://amundsen.com/hypermedia/
