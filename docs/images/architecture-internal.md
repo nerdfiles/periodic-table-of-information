@@ -20,7 +20,7 @@ which we find viable through RequireJS, also enabling [client-side hot
 re-loading][hot]. Generally we believe in
 
 1. _Configuration Over Convention_.
-2. _Uniformity Over Isomorphy_.
+2. _Uniformity Over Isomorphy_.<br />
    Politically speaking, _Propertization Over Privatization_; i.e., _Differences Cannot Be Taxed_.
 3. _Hypermedia As the Engine of Application State_.
 
