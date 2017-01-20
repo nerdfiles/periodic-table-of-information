@@ -70,7 +70,7 @@ Descriptivism! One benefit of bringing the web of such a nature to fruition is
 that the Anarchic Ideal should be achieved:
 
 <blockquote>
-<p>The future organization ofsociety must proceed from the bottom up only,
+<p>The future organization of society must proceed from the bottom up only,
 through free association or federation of the workers, into their
 associations to begin with, then into communes, regions, nations and,
 nally, into a great international and universal federation.</p>
