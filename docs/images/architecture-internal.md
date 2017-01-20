@@ -20,7 +20,7 @@ which we find viable through RequireJS, also enabling [client-side hot
 re-loading][hot]. Generally we believe in
 
 1. _Configuration Over Convention_.
-2. _Uniformity Over Isomorphy_.
+2. _Uniformity Over Isomorphy_. (Politically speaking, _Propertization Over Privatization_.)
 3. _Hypermedia As the Engine of Application State_.
 
 The overall philosophy of PTI might be called _narratological functionalism_;
