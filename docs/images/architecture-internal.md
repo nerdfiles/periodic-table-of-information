@@ -57,17 +57,74 @@ in nature (are the result of transmedia factors).
 
 ### Diagnose          [Di]
 
+#### Modal Schema
+
+    □PK0 → □□PK0      (transitive [metastructure] key distribution)
+
+#### Order of Platitude
+
+    If Node stores p, then the truth of Node’s motive for p must have been
+    ensured through the exercise of Node’s relevant technological abilities.
+
 ### Recovery          [Re]
+
+#### Modal Schema
+
+    □PK0 → PK0        (reflexive key distribution)
+
+#### Order of Platitude
+
+    Only purposeful information is stored.
 
 ### Rollback          [Ro]
 
+#### Modal Schema
+
+    ◊□PK0 → □◊PK0     (convergent key distrituion)
+
+#### Order of Platitude
+
+    False information is not stored.
+
 ### Retry             [Rt]
+
+#### Modal Schema
+
+    ◊PK0   → □◊          (Euclidean key distribution)
+
+#### Order of Platitude
+
+    Information excludes stochastic luck.
 
 ### Mask              [Ma]
 
+#### Modal Schema
+
+    PK0 → □◊PK0       (symmetric key distribution)
+
+#### Order of Platitude
+
+    If Node asserts p, then all machines can confirm that Node knows p.
+
 ### Confinement       [Co]
 
+#### Modal Schema
+
+    □□PK0 → □PK0      (dense key distribution)
+
+#### Order of Platitude
+
+    Node stores all deductions of p assuming Node stores ancestry of p.
+
 ### Serial            [Se]
+
+#### Modal Schema
+
+    □PK0 → ◊PK0       (serial key distribution)
+
+#### Order of Platitude
+
+    Information is a technological achievement.
 
 ## Transmedia Factors
 
