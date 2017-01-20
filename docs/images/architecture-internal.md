@@ -21,7 +21,7 @@ re-loading][hot]. Generally we believe in
 
 1. _Configuration Over Convention_.
 2. _Uniformity Over Isomorphy_.<br />
-   Politically speaking, _Propertization Over Privatization_; i.e., _Differences Cannot Be Taxed_.
+   Politically speaking, _Propertization Over Privatization_; i.e., _Differences Cannot Be Taxed Or Agreements Would Never Be_.
 3. _Hypermedia As the Engine of Application State_.
 
 The overall philosophy of PTI might be called _narratological functionalism_;
