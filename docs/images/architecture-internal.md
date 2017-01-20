@@ -66,6 +66,18 @@ in nature (are the result of transmedia factors).
     If Node stores p, then the truth of Node’s motive for p must have been
     ensured through the exercise of Node’s relevant technological abilities.
 
+#### Measurement Category
+
+    O(log n)
+
+#### Measurement Scenario
+
+Given a person’s name, find the account number by picking a random point about
+halfway through the part of the ledger you haven’t searched yet, then checking
+to see whether the person’s name is at that point. Then repeat the process
+about halfway through the part of the ledger where the person’s name lies.
+This is a binary search for a person’s name.
+
 ### Recovery          [Re]
 
 #### Modal Schema
@@ -75,6 +87,21 @@ in nature (are the result of transmedia factors).
 #### Order of Platitude
 
     Only purposeful information is stored.
+
+#### Measurement Category
+
+    O(nˆn)
+
+#### Measurement Scenario
+
+You fix the bot so that it’s loading things correctly. The next day, one of
+your co-devs plays a prank on you and codes the file watcher bot to the
+automated insert script. Every time the bot goes to load an original ledger,
+the factory DBMS makes a duplicate run of all the ledgers! Fortunately, the
+bot’s bug-detection systems are sophisticated enough that the bot doesn’t try
+inserting even more copies when it encounters a duplicate ledger for loading,
+but it still has to load every original and duplicate ledger that’s been
+printed.
 
 ### Rollback          [Ro]
 
@@ -86,6 +113,14 @@ in nature (are the result of transmedia factors).
 
     False information is not stored.
 
+#### Measurment Category
+
+    O(1) (worst case)
+
+#### Measurement Scenario
+
+Given the page that an organization’s name is on and the organization name, find the account number.
+
 ### Retry             [Rt]
 
 #### Modal Schema
@@ -95,6 +130,14 @@ in nature (are the result of transmedia factors).
 #### Order of Platitude
 
     Information excludes stochastic luck.
+
+#### Measurement Category
+
+    O(n)
+
+#### Measurement Scenario
+
+Find all people whose account numbers contain the digit “5”.
 
 ### Mask              [Ma]
 
@@ -106,6 +149,14 @@ in nature (are the result of transmedia factors).
 
     If Node asserts p, then all machines can confirm that Node knows p.
 
+#### Measurement Category
+
+    O(1) (average case)
+
+#### Measurement Scenario
+
+    Given the page that a person’s name is on and their name, find the account number.
+
 ### Confinement       [Co]
 
 #### Modal Schema
@@ -116,6 +167,16 @@ in nature (are the result of transmedia factors).
 
     Node stores all deductions of p assuming Node stores ancestry of p.
 
+#### Measurement Category
+
+    O(n log n)
+
+#### Measurement Scenario
+
+We want to annotate the ledger, so we’re going to find each person or
+organization’s name in their designated copy, then circle their name in the
+ledger and append a small note regarding a recent customer service call.
+
 ### Serial            [Se]
 
 #### Modal Schema
@@ -125,6 +186,14 @@ in nature (are the result of transmedia factors).
 #### Order of Platitude
 
     Information is a technological achievement.
+
+#### Measurement Category
+
+    O(n)
+
+#### Measurement Scenario
+
+Given a account number, find the person or organization with that number.
 
 ## Transmedia Factors
 
