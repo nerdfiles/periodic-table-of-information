@@ -306,7 +306,7 @@ for your determined transaction. Then post the raw transaction. For example:
         "Content-Type": "application/x-www-form-urlencoded"
       }
     }).then((response) => {
-      console.log(response); // Store OP_RETURN in LocalStorage
+      console.log(response);
     }, (error) => {
       console.log(error);
     });
