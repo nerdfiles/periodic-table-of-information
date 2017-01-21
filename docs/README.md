@@ -37,11 +37,16 @@ accordance with worst-case practical Byzantine fault tolerance; pruning and
 searching trees of HTTP Statuses: (201 + 304 + 500) is a path that has a
 deterministic resolution but 500 has a fixed timeout, 201 might not have a
 fixed timeout because an entity is created, 304 might not have a fixed timeout,
-etc. https://httpstatuses.com/
+etc. [HTTP Statues][statuses] become the child nodes in a tree of relational
+translations of modal formulas for Discovery* concerning time resolutions of
+REST-ful state transitions which subtend the distributed hypermedia application.
+There are _authentication paths_ and _discovery paths_ in the digital ecology
+of the distributed ledgers which account for the distributed hypermedia
+application.
 
-And all of this has a cost which can be accounted for in a blockchain so to
-determine how much service time is needed to support an OTR conversation
-between certain public identities along an authentication path.
+And all of this has a cost to humans which can be accounted for in a
+blockchain so to determine how much service time is needed to support an OTR
+conversation between certain public identities along an authentication path.
 
 I'm imagining "web applications" are things like:
 
@@ -574,3 +579,4 @@ __
 [hot]:        https://medium.com/@the1mills/hot-reloading-with-react-requirejs-7b2aa6cb06e1#.y6mnt2cjp
 [dist]:       http://www.softwarearchitecturebook.com/about-the-book/
 [hfactor]:    http://amundsen.com/hypermedia/
+[statuses]:   https://httpstatuses.com/
