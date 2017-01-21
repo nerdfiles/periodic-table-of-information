@@ -283,7 +283,71 @@ Given a account number, find the person or organization with that number.
 
 ## Transmedia Factors
 
-As expression of support for the Chain of Trust.
+As expression of support for the Chain of Trust. Generally we are outlining a
+capability of fully peer-2-peer systems to express people identity rules and
+transaction identity requirements in one place, the lingua franca of the web: the
+hypertext markup language. One crude way to think of this is that
+Create-Read-Update-Delete (CRUD) is achieveable through information dispersal norms
+accounting for sharded states of data to be "proved." Practically this is the
+thinking that the `action` of a form can point to public APIs like
+http://blockchain.info or https://blockr.io/tx/push.
+
+### Simplistic Idea
+
+Create OP_RETURN using Bitcore's `Script.fromHumanReadable` updating the
+`TransactionBuilder` to `_setFeeAndRemainder` with `OP_RETURN {{someData}}`
+for your determined transaction. Then post the raw transaction. For example:
+
+    $http({
+      method  : 'POST',
+      url     : 'https://blockchain.info/pushtx?cors=true',
+      data    : { 'tx': transactionHex },
+      headers : {
+        "Content-Type": "application/x-www-form-urlencoded"
+      }
+    }).then((response) => {
+      console.log(response); // Store OP_RETURN in LocalStorage
+    }, (error) => {
+      console.log(error);
+    });
+
+Instead of a mail server sending a mail, a small script scans for the Bitcoin
+address specified for receipt of payment. We are looking at the cost of hosting
+a microtransaction from an endpoint versus pay-as-you-go to a wallet that is
+independent of the hosting service, itself capable of servicing the web form.
+The application will actually check any keyservers for the public key ID to
+determine the `From:` field, say on a contact form. One could therefore create
+a throw-away public key for submitting forms, meanwhile the `To:` field is
+technically a Bitcoin address connected with a Bitcoin address configured to
+the web form. The Web application can scan the Bitcoin blockchain's public
+transaction ledger whenever, optimally at the verification period, do a lookup
+of the PGP key. The data of the form will be formatted, calculated and sharded
+according to the limitations of the `OP_RETURN` such that multiple transactions
+will be made. Essentially the OP_RETURN will be a pairing
+
+    OP_RETURN <public_key_id_or_email> <public_key_id_or_email> <startTime>
+    OP_RETURN LWZ_Compressed_PGP_MESSAGE('-----BEGIN PGP MESSAGE-----\
+    \
+    hQIMA6rjpgDbFMWQARAAtjtXC28NFCuswfmY5VJIwex6cO8ms+AldPxpKQX2Wd4i\
+    ...\
+    =6y2I\
+    -----END PGP MESSAGE-----')
+    OP_RETURN <public_key_id_or_email> <public_key_id_or_email> <endTime>
+
+If the lookup works, the form data will be signed, sharded, and sent as however
+many transactions are necessary per chunks of the message as max input size. The
+messages should be coded to LocalStorage and queued for transaction. So, instead
+of coding a backend to receive e-mails one has the more complicated affair of
+implementing Bitcore to build a transaction with `OP_RETURN`! But more
+interestingly, practically a backend isn't needed at all. If the transaction(s)
+are made from the web form, they will be encrypted, compressed, etc.
+
+Now, of course this would be horribly expensive on the Bitcoin blockchain as it
+stands today. And maybe even some of the description is terribly non-lucid.
+More likely it makes sense to use a closed-loop ledger and pass unitary
+evolution of state periodically to the Bitcoin blockchain such that a momentum
+system is devised to account for the temporal aspect of business transactions
+which dynamically track income level capacities between public identities.
 
 ### Value Layer
 
