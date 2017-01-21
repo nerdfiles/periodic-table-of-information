@@ -343,9 +343,9 @@ accounting for sharded states of data to be "proved." Practically this is the
 thinking that the `action` of a form can point to public APIs like
 http://blockchain.info or https://blockr.io/tx/push.
 
-### Simplistic Idea
+### NoBackend P2P Form Processing
 
-Create OP_RETURN using Bitcore's `Script.fromHumanReadable` updating the
+Create `OP_RETURN` using Bitcore's `Script.fromHumanReadable` updating the
 `TransactionBuilder` to `_setFeeAndRemainder` with `OP_RETURN {{someData}}`
 for your determined transaction. Then post the raw transaction. For example:
 
