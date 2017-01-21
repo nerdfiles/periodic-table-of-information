@@ -56,6 +56,36 @@ Hypermedia as the engine of application state would specify then that
 statuses deterministically resolution to a merkle root which can be specified
 in HTML pages given a target difficulty on the antichain.
 
+## Theoretical Shores
+
+Periodic Table of Information is a consequence of adoption of a dual-aspect
+neutral monism that is defended in Baruch Spinoza's Ethics Ordine Geometrico.
+To say that information has a periodic nature in itself sounds counterintuitive,
+and indeed certain ontological ramifications are pertinent to disclose; chief of
+those being the view that the Higgs Boson and the concept of Gravitional Waves
+are seen as fundamentally untenable theoretical posits. Waves cannot transmit
+gravity, and the Higgs boson is more of a useful fiction than it is a consistent
+model within the theory which makes its supposition.
+
+The Periodic Table of Information concerns itself with the relationship between
+the indiscernible and the undecidable, by way of evidence of the
+indistinguishability of photons. One thing to understand is that the Periodic
+Table of Information's constructivisitic nature requires a full rejection the
+concept of the Higgs boson because of its presupposition that time is not an
+independent dimension that is ever measured. The intellectual goal of PTI
+should be achieved, essentially, if a coherent response to John McTaggart's
+argument for the Unreality of Time is grounded in the Spinozistic
+expression of the mental categories implicated in a mathematical formalism of
+the quantum theory insofar as time, specifically the A Series, is philosophically
+constituted as the 4th dimension of space, rather than an independent dimension
+that comports a chimerical notion of the "arrow of time." A corollary of the
+formalism (formal input specification language) given here is that certain
+notions of time travel, global simulations, forms of zombie consciousness, and
+other philosophical "thought experiments" are strictly hubris, if not completely
+(philosophical or epistemological) category mistakes, akin to AJ Ayer's
+proposition, and defense, that there had been a sun before there were any humans
+to see it.
+
 ## Hypermedia Factors
 
 We adopt Mike Amundsen's [Hypermedia Factors][hfactor] for Hypermedia Types in
