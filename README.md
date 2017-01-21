@@ -84,8 +84,9 @@ instrument. The local configuration of subject to patient is conceivable
 within the procedures of truth available to the multiple realizability of
 the situation, ceteris paribus, conformant to a boolean satisfiable matrix
 reduction over the categories of information. Such a metastructure defines
-the convergent norm of reality of the attribute of cyberspace for all
-periodically homonomic phenomena, the enervesen{{{{
+the convergent norm of reality of the attributes of cyberspace for all
+periodically homonomic phenomena, enervating timelessly yet amplifying the
+contours of maximalized uniform gesture.
 
 ### Computational Implicatures and Grammaticalization
 
