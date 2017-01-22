@@ -97,12 +97,12 @@ placement within the formalism requires such an epistemic departure in order to
 make consistent the descriptive model of "state spaces" of 4D space. Otherwise,
 we would invariably confuse the C Series with the A Series through the use of
 isomorphisms which underpin calculate of unit norm vectors within the unitary
-evolution of projection in Banarch space. What we are concerned with in such
+evolution of projection in Banach space. What we are concerned with in such
 demonstrations is the theoretical contours of the von Neumann supposition that
 "mind causes collapse." More importantly, that the yield of worlds, or many
 worlds, is an entailment of decoherence, as opposed to evidence merely that
 the measurement apparatus is out of scope of the mathematical observer. We are
-indeed concerned with the "temporal dead zone" that supplies new information;
+indeed concerned with the "temporal dead zone"[0] that supplies new information;
 hence the name, "Periodic Table of Information." PTI is an expression of the
 declarative reference architecture necessary to describe formalized
 mathematical observers within a 4D Minkowski (state) space.
@@ -570,6 +570,8 @@ cognitive to ergonomic standpoint.
 
 __
 * Depends on Availability Confidence Model
+[0]: A useful metaphor we have inherited from review of the JavaScript
+programming language.
 
 [layering]:   https://en.wikipedia.org/wiki/Representational_state_transfer#Layered_system
 [P]:          https://schema.org/Person
