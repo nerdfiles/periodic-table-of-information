@@ -99,7 +99,7 @@ we would invariably confuse the C Series with the A Series through the use of
 isomorphisms which underpin calculate of unit norm vectors within the unitary
 evolution of projection in Banach space.
 
-![https://raw.githubusercontent.com/nerdfiles/periodic-table-of-information/master/docs/images/banach-space-projection.png](subprojective Banach state spaces for 3 closed-timelike curves)
+<img src="https://raw.githubusercontent.com/nerdfiles/periodic-table-of-information/master/docs/images/banach-space-projection.png" alt="subprojective Banach state spaces for 3 closed-timelike curves" />
 
 What we are concerned with in such demonstrations is the theoretical contours
 of the von Neumann supposition that "mind causes collapse." More importantly,
