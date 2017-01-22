@@ -577,9 +577,26 @@ cognitive to ergonomic standpoint.
         content="{{some_csrf_token}}"
     />
 
+A viable token format is JWT, though storing tokens client-side (LocalStorage, anybody?) depends on the implementation. The main point that we are establishing here is that the implementation depends on a certain "philosophical consideration."
+
+So one thing I have been thinking is, say you have these HTTP Statuses: 205 Reset Content and 412 Precondition Failed. What is 412? Here's a relevant part:
+
+    A server MUST ignore all received preconditions if its response to the
+    same request without those conditions would have been a status code
+    other than a 2xx (Successful) or 412 (Precondition Failed).  In other
+    words, redirects and failures take precedence over the evaluation of
+    preconditions in conditional requests.
+    — https://tools.ietf.org/html/rfc7232#section-4.2
+
+What this means is that all 412s have a known state which can be stored. Therefore: Node stores all deductions of p assuming Node stores ancestry of p[0] and Node stores all deductions of p assuming Node stores ancestry of p[1]. So to say, we can identify optimal Discovery* paths which cohere with Authentication paths (a true idea coheres with its object — Axiom 6)[2]. In this case 30x and 50x take precedence in that a 412 is not stored if these were to be determined. From the perspective of automation of Discovery we can know this precognitively in that the cryptographic key pairings implicated along the Discovery* path can be known because sometimes we may use one-time keys (convergent keys) that are correlated with PGP keys. The HTML page might dictate that my public key annotating the HTML page entity is leveraged to produce a convergent key, but if the resources 30x or 50x that are child resources as Link Relations[3] then I might determine beforehand that such convergent keys cannot or MUST NOT be generated, etc. And this would all be transcribed in the closed-loop ledger's account paths[4].
+
+So the keys become "lively" (in the scope of JWT implementation details which is partly informed by the Availability Confidence Model for the information type — so one corollary here is that information is a natural kind like "water" or "heat") based on these deterministic modal state space transitions of auth paths and discovery* for REST-ful resources like /account/ID/thing which is nothing more than a modal proof of the thing.
+
+I am trying to apply Kripke's causal theory of reference to REST. That's the raison d'étre here, turning REST-ful reasources into natural kinds; or so to say "every identity statement involving proper names is either necessarily true or necessarily false." Some REST-ful endpoints are proper names (Are all REST-ful endpoints proper names? /cat versus /search? We must also remember that REST does not JUST MEAN prettier URLs — these URLs can still have CGI parameters like ?null=blah&super=block)— like I was saying about "grocery store." Therefore, the necessary a posteriori MUST apply to cyberspace!
+
 __
 
-* Depends on Availability Confidence Model
+* Depends on Availability Confidence Model; a grammatical outcome of this concept is that information is _available at a possible world at such-and-such a time, t_.
 
 [0]: A useful metaphor we have inherited from review of the JavaScript
 programming language.

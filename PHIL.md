@@ -9,3 +9,4 @@ Technology without philosophy is Hume; Philosophy without technology is Heidegge
 5. https://www.oreilly.com/ideas/4-essential-skills-software-architects-need-to-have-but-often-don%E2%80%99t
 6. https://www.thoughtworks.com/insights/blog/born-it-how-image-software-developers-came-about
 7. http://www.eipiphiny.org/articles/smith-godapprox4.pdf
+8. https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage
