@@ -101,8 +101,8 @@ evolution of projection in Banach space.
 
 <img
   src="https://raw.githubusercontent.com/nerdfiles/periodic-table-of-information/master/docs/images/banach-space-projection.png"
-  alt="subprojective Banach state spaces for 3 closed-timelike curves"
-  title="subprojective Banach state spaces for 3 closed-timelike curves"
+  alt="Subprojective Banach state spaces for 3 closed-timelike curves expressed in Cartesian modality"
+  title="Subprojective Banach state spaces for 3 closed-timelike curves expressed in Cartesian modality"
   width="200"
 />
 
