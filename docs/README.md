@@ -37,7 +37,7 @@ accordance with worst-case practical Byzantine fault tolerance; pruning and
 searching trees of HTTP Statuses: (201 + 304 + 500) is a path that has a
 deterministic resolution but 500 has a fixed timeout, 201 might not have a
 fixed timeout because an entity is created, 304 might not have a fixed timeout,
-etc. [HTTP Statues][statuses] become the child nodes in a tree of relational
+etc. [HTTP Statuses][statuses] become the child nodes in a tree of relational
 translations of modal formulas for Discovery* concerning time resolutions of
 REST-ful state transitions which subtend the distributed hypermedia application.
 There are _authentication paths_ and _discovery paths_ in the digital ecology
