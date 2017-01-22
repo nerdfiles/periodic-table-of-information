@@ -577,7 +577,9 @@ cognitive to ergonomic standpoint.
     />
 
 __
+
 * Depends on Availability Confidence Model
+
 [0]: A useful metaphor we have inherited from review of the JavaScript
 programming language.
 
