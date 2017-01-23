@@ -211,6 +211,8 @@ for to mull over:
 <img
   src="https://raw.githubusercontent.com/nerdfiles/periodic-table-of-information/master/docs/images/modal-proof.png"
   alt="Caption as Translation Below"
+  width="300"
+  style="width: 300px; float: right;"
 />
 
 Now we might be wondering how this relates to REST. Generally, we are often
