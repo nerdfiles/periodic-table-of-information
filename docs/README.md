@@ -245,7 +245,7 @@ of the substrate logical layer of the distributed hypermedia application (web).
 That said, fault tolerance becomes a question of the parity of maximalized
 attributes described given certain resolution of the formal input specification
 language and its actual realizability within the _hypertree_ of distributed smart
-contracts which are positively solved, insofar as they are _almost surely valid_,
+contracts which are positively solved, insofar as they are _almost surely valid_[1],
 in polynomial time. However, our chief concern is bridging the unitary evolution
 of periodic categorical changes in economic momentum of the distributed ledger
 environment insofar as it is an ecosystem of existing and newly created public
@@ -653,6 +653,7 @@ __
 
 [0]: A useful metaphor we have inherited from review of the JavaScript
 programming language.
+[1]: Our terminology adopts the non-normative semantics from Rudolf Carnap's Modal Logic.
 
 [layering]:   https://en.wikipedia.org/wiki/Representational_state_transfer#Layered_system
 [P]:          https://schema.org/Person
