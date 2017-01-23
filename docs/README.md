@@ -67,7 +67,7 @@ Periodic Table of Information is a consequence of adoption of a dual-aspect
 neutral monism that is defended in Baruch Spinoza's Ethics Ordine Geometrico.
 To say that information has a periodic nature in itself sounds counterintuitive,
 and indeed certain ontological ramifications are pertinent to disclose; chief of
-those being the view that the Higgs Boson and the concept of Gravitional Waves
+those being the view that the Higgs Boson and the concept of Gravitational Waves
 are seen as fundamentally untenable theoretical posits. Waves cannot transmit
 gravity, and the Higgs boson is more of a useful fiction than it is a consistent
 model within the theory which makes its supposition.
