@@ -206,7 +206,7 @@ Consider the following modal proof:
     ◊∃x□(∃y(y = x) ∧ Rx) ⊢ ∃x□(∃y(y=x) ∧ Rx)
 
 Don't worry; we have worked it out by hand as well, but here is a proof tree
-for to mull over:
+for those discerning to mull over:
 
 <img
   src="https://raw.githubusercontent.com/nerdfiles/periodic-table-of-information/master/docs/images/modal-proof.png"
