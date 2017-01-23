@@ -199,6 +199,57 @@ transactional in nature (are the result of transmedia factors).
 
 ## Discovery Layer*
 
+### Overview
+
+Consider the following modal proof:
+
+    ◊∃x□(∃y(y = x) ∧ Rx) ⊢ ∃x□(∃y(y=x) ∧ Rx)
+
+Don't worry; we have worked it out by hand as well, but here is a proof tree
+for to mull over:
+
+<img
+  src="https://raw.githubusercontent.com/nerdfiles/periodic-table-of-information/master/docs/images/modal-proof.png"
+  alt="Caption as Translation Below"
+/>
+
+Now we might be wondering how this relates to REST. Generally, we are often
+concerned with a logarithmic number of queries. This might be the case in
+most cases because we can translate the proof as follows:
+
+    Possibly, there exists a[n HTTP Response] that is maximally represented in
+    every possible HTTP Request.
+
+With its conclusion being:
+
+    There exists a[n HTTP Response] that is maximally represented in every
+    possible HTTP Request.
+
+This is a non-trivial result that enables us to talk about classifying
+bounded resolutions to HTTP Status combinatics in polynomial time. Critically,
+identifying the dependencies of queries within a framework of modal formulas
+enables the application of capabilities to oracles within our stream of
+validations. Particularly, distributed ledgers can become not merely
+validators of transactions, but they can ensure the stability of the network
+through distributed parallelism.
+
+An outcome of this strategy is that we can define _hypernodes_ of the network
+in such a way that HTTP Statuses play a role in our determination of the
+commissioning and decommissioning of a virtual logical layer of the distributed
+ledger environment. The Periodic Table of Information then becomes a rubric
+for identifying what we have at an earlier time called "degradable media
+models" such that the Web of Trust and the Chain of Trust become expressions
+of the substrate logical layer of the distributed hypermedia application (web).
+That said, fault tolerance becomes a question of the parity of maximalized
+attributes described given certain resolution of the formal input specification
+language and its actual realizability within the _hypertree_ of distributed smart
+contracts which are positively solved, insofar as they are _almost surely valid_,
+in polynomial time. However, our chief concern is bridging the unitary evolution
+of periodic categorical changes in economic momentum of the distributed ledger
+environment insofar as it is an ecosystem of existing and newly created public
+key relationships, each of which contributes to the expansion and contraction of
+dynamical wealth velocities over time.
+
 ### Diagnose          [Di]
 
 #### Modal Schema
