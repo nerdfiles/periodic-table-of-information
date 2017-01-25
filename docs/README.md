@@ -1,5 +1,34 @@
 # Periodic Table of Information
 
+<blockquote>
+<p>Imagination is more important than knowledge. For knowledge is limited to
+all we now know and understand, while imagination embraces the entire world,
+and all there ever will be to know and understand.</p>
+<cite>― Albert Einstein</cite>
+</blockquote>
+
+Let's cut to the chase, as if to suggested that distributed consensus is just
+a matter of form or time; worst yet "just math," that discipline least of
+all behooved to some nebulous commitment to "logical" foundations.
+
+We are most indebted to our mentor's babbling sacrifice, both integral and
+baptismal to our new departure into the ornamentation of investigation; conjoined
+as yet to the mathematico-constructivistic ruminations on the blind ontic given.
+
+<blockquote><p>Fake barn cases are sometimes treated as functionally
+indiscernible between knowledge attributions of experts, regardless of
+order.</p></blockquote>
+
+That is to say:
+
+<blockquote><p>[...] philosophy, as a discipline, might fail to adequately map
+the intuitions of its expert practitioners onto a disciplinary
+consensus [...]</p></blockquote>
+
+<blockquote><p>It is one of the chief skills of the philosopher not to occupy
+himself with questions which do not concern him.</p>
+<cite>Ludwig Wittgenstein</cite></blockquote>
+
 PTI is largely concerned with providing a specification for HTML to dictate
 how it is to be treated in a fully peer-2-peer network of cryptographic miners
 which might also support cryptographic messaging for OTR purposes. We combine
