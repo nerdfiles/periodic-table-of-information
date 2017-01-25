@@ -35,6 +35,19 @@ That is to say:
     Ludwig Wittgenstein
 </blockquote>
 
+And most assiduously, those meticulous to their ends:
+
+<blockquote>
+<p>It would be more realistic to
+view the use of improvisation in world creativity as the culmination of what
+has been learned/experienced throughout the progressional actualness of life
+on this planet (and beyond - relating to the realness of the 'is' - or
+original knowledge, etc.) rather than the product of isolated innovation -
+as the word is now used in this time zone. This information is important to
+understand, because the realness of improvisation promises to be the next
+sourcetransfer factor in the western documentation cycle.</p>
+</blockquote>
+
 ## Overview
 
 PTI is largely concerned with providing a specification for HTML to dictate
