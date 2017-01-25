@@ -1,7 +1,7 @@
 # Periodic Table of Information
 
-Let's cut to the chase, as if to suggested that distributed consensus is just
-a matter of form or time; worst yet "just math," that discipline least of
+Let's cut to the chase, as if to suggest that distributed consensus is just
+a matter of _form_ or _time_; worst yet "just math," that discipline least of
 all behooved to some nebulous commitment to "logical" foundations.
 
 <blockquote>
