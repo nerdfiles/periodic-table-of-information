@@ -1,11 +1,9 @@
 # Periodic Table of Information
 
-<blockquote>
-  <p>Imagination is more important than knowledge. For knowledge is limited to
-  all we now know and understand, while imagination embraces the entire world,
-  and all there ever will be to know and understand.</p>
-  Albert Einstein
-</blockquote>
+    Imagination is more important than knowledge. For knowledge is limited to
+    all we now know and understand, while imagination embraces the entire world,
+    and all there ever will be to know and understand.
+    Albert Einstein
 
 Let's cut to the chase, as if to suggested that distributed consensus is just
 a matter of form or time; worst yet "just math," that discipline least of
@@ -15,25 +13,19 @@ We are most indebted to our mentor's babbling sacrifice, both integral and
 baptismal to our new departure into the ornamentation of investigation; conjoined
 as yet to the mathematico-constructivistic ruminations on the blind ontic given.
 
-<blockquote>
-  <p>Fake barn cases are sometimes treated as functionally
-  indiscernible between knowledge attributions of experts, regardless of
-  order.</p>
-</blockquote>
+    Fake barn cases are sometimes treated as functionally
+    indiscernible between knowledge attributions of experts, regardless of
+    order.
 
 That is to say:
 
-<blockquote>
-  <p>[...] philosophy, as a discipline, might fail to adequately map
-  the intuitions of its expert practitioners onto a disciplinary
-  consensus [...]</p>
-</blockquote>
+    [...] philosophy, as a discipline, might fail to adequately map
+    the intuitions of its expert practitioners onto a disciplinary
+    consensus [...]
 
-<blockquote>
-<p>It is one of the chief skills of the philosopher not to occupy
-himself with questions which do not concern him.</p>
-Ludwig Wittgenstein
-</blockquote>
+    It is one of the chief skills of the philosopher not to occupy
+    himself with questions which do not concern him.
+    Ludwig Wittgenstein
 
 ## Overview
 
