@@ -4,7 +4,7 @@
 <p>Imagination is more important than knowledge. For knowledge is limited to
 all we now know and understand, while imagination embraces the entire world,
 and all there ever will be to know and understand.</p>
-<cite>― Albert Einstein</cite>
+<cite>Albert Einstein</cite>
 </blockquote>
 
 Let's cut to the chase, as if to suggested that distributed consensus is just
@@ -28,6 +28,8 @@ consensus [...]</p></blockquote>
 <blockquote><p>It is one of the chief skills of the philosopher not to occupy
 himself with questions which do not concern him.</p>
 <cite>Ludwig Wittgenstein</cite></blockquote>
+
+## Overview
 
 PTI is largely concerned with providing a specification for HTML to dictate
 how it is to be treated in a fully peer-2-peer network of cryptographic miners
