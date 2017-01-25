@@ -50,6 +50,21 @@ understand, because the realness of improvisation promises to be the next
 sourcetransfer factor in the western documentation cycle.</p>
 </blockquote>
 
+Without further ado, now that the meritocratic colonialists have eschewed
+infocology:
+
+<blockquote>
+<p>That is what I now claim we will never have. Admittedly, there does exist a
+body of work called the “theory of computation,” which is a bit
+distracting—but I am prepared to go to court to say that it is wrong, in the
+following strict sense: in spite of its name, it is not a theory of computing
+after all. (Which is not to downgrade it. What it is, I believe, is something
+of incalculable im- portance, worth a passel of Nobel prizes: a mathematical
+theory of causality.)</p>
+</blockquote>
+
+We might say a thing.
+
 ## Overview
 
 PTI is largely concerned with providing a specification for HTML to dictate
