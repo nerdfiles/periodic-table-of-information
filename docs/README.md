@@ -1,15 +1,15 @@
 # Periodic Table of Information
 
+Let's cut to the chase, as if to suggested that distributed consensus is just
+a matter of form or time; worst yet "just math," that discipline least of
+all behooved to some nebulous commitment to "logical" foundations.
+
 <blockquote>
     <p>Imagination is more important than knowledge. For knowledge is limited to
     all we now know and understand, while imagination embraces the entire world,
     and all there ever will be to know and understand.</p>
     Albert Einstein
 </blockquote>
-
-Let's cut to the chase, as if to suggested that distributed consensus is just
-a matter of form or time; worst yet "just math," that discipline least of
-all behooved to some nebulous commitment to "logical" foundations.
 
 We are most indebted to our mentor's babbling sacrifice, both integral and
 baptismal to our new departure into the ornamentation of investigation; conjoined
