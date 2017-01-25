@@ -1,10 +1,10 @@
 # Periodic Table of Information
 
 <blockquote>
-<p>Imagination is more important than knowledge. For knowledge is limited to
-all we now know and understand, while imagination embraces the entire world,
-and all there ever will be to know and understand.</p>
-<cite>Albert Einstein</cite>
+  <p>Imagination is more important than knowledge. For knowledge is limited to
+  all we now know and understand, while imagination embraces the entire world,
+  and all there ever will be to know and understand.</p>
+  Albert Einstein
 </blockquote>
 
 Let's cut to the chase, as if to suggested that distributed consensus is just
@@ -15,19 +15,25 @@ We are most indebted to our mentor's babbling sacrifice, both integral and
 baptismal to our new departure into the ornamentation of investigation; conjoined
 as yet to the mathematico-constructivistic ruminations on the blind ontic given.
 
-<blockquote><p>Fake barn cases are sometimes treated as functionally
-indiscernible between knowledge attributions of experts, regardless of
-order.</p></blockquote>
+<blockquote>
+  <p>Fake barn cases are sometimes treated as functionally
+  indiscernible between knowledge attributions of experts, regardless of
+  order.</p>
+</blockquote>
 
 That is to say:
 
-<blockquote><p>[...] philosophy, as a discipline, might fail to adequately map
-the intuitions of its expert practitioners onto a disciplinary
-consensus [...]</p></blockquote>
+<blockquote>
+  <p>[...] philosophy, as a discipline, might fail to adequately map
+  the intuitions of its expert practitioners onto a disciplinary
+  consensus [...]</p>
+</blockquote>
 
-<blockquote><p>It is one of the chief skills of the philosopher not to occupy
+<blockquote>
+<p>It is one of the chief skills of the philosopher not to occupy
 himself with questions which do not concern him.</p>
-<cite>Ludwig Wittgenstein</cite></blockquote>
+Ludwig Wittgenstein
+</blockquote>
 
 ## Overview
 
@@ -168,7 +174,7 @@ Anarchic Ideal should be achieved:
 through free association or federation of the workers, into their
 associations to begin with, then into communes, regions, nations and,
 nally, into a great international and universal federation.</p>
-<cite>Mikhail Bakunin</cite>
+Mikhail Bakunin
 </blockquote>
 
 Moreover, we are to achieve that _ideal of a society_ such that
@@ -177,7 +183,7 @@ Moreover, we are to achieve that _ideal of a society_ such that
 <p>It would not answer its purpose if it did not cover society with a network
 of thousands of associations to satisfy its thousand needs: the
 necessaries of life, articles of luxury, of study, enjoyment, amusements.</p>
-<cite>Mutual Aid. Petyr Kropotkin</cite>
+Mutual Aid. Petyr Kropotkin
 </blockquote>
 
 Thank goodness folks smarter than us have laid the groundwork for these natural
