@@ -65,7 +65,7 @@ such that a conversation provably did not happen? This is the goal of PTI.
 I want to make `OP_RETURN` transactions to the Bitcoin blockchain and open
 rooms in an [HTTP-layering](layering) in a WebSocket such that the web page
 itself has a public key and the OP_RETURN contains a hash of the public keys
-licensed to see the room. (For instance, [dualapi][dp] proves that the
+licensed to see the room. For instance, [dualapi][dp] proves that the
 question of [WebSockets versus REST][wsvrest] can be reconciled. Another
 interesting point when it comes to REST requirements concerns Code on Demand
 which we find viable through RequireJS, also enabling [client-side hot
