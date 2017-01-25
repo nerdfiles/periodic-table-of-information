@@ -29,6 +29,8 @@ That is to say:
     consensus [...]</p>
 </blockquote>
 
+Chief of our mentors aware of this tune:
+
 <blockquote>
     <p>It is one of the chief skills of the philosopher not to occupy
     himself with questions which do not concern him.</p>
