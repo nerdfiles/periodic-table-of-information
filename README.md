@@ -1,5 +1,7 @@
 # Periodic Table of Information
 
+See [interim docs][pti].
+
 The Periodic Table of Information is a Dual-Aspect Spinozistic Interpretation
 of Cyberspace such that the Web of Trust and Chain of Trust are unified.
 Ideally our system should describe the necessary and sufficient conditions
@@ -117,83 +119,39 @@ layers:
 
 <img src="https://raw.githubusercontent.com/nerdfiles/periodic-table-of-information/master/docs/images/architecture-internal.png" />
 
-### Context
-
-#### Relations
-
-#### Read
-
-#### Update
-
-#### Delete
-
-### Narration
-
-#### Embed
-
-#### Outbound
-
-#### Templated
-
-#### Non-idempotent
-
-#### Idempotent
-
-### Discovery
-
-#### Diagnose
-
-#### Recovery
-
-#### Rollback
-
-#### Retry
-
-#### Mask
-
-#### Confinement
-
-#### Serial
-
-### Value
-
-#### Translate
-
-#### Peers
-
-#### Copy
-
-#### Block
-
-#### Diminution
-
-### Attribution
-
-#### Identity
-
-#### Type
-
-#### Verb
-
-#### Method
-
 ## Protocol
+
+TBD
 
 ### Collections
 
+TBD
+
 ### Node
+
+TBD
 
 ### State
 
+TBD
+
 ### Prover
 
+TBD
+
 ## Field
+
+TBD
 
 ### Lattice
 
 <img src="https://raw.githubusercontent.com/nerdfiles/periodic-table-of-information/master/docs/images/discovery-modeling.png" />
 
+Implementation details TBD
+
 ### Status
+
+#### Simple Example
 
 ```javascript
 const mm = new MediaModel();
@@ -211,29 +169,52 @@ mm.lend([
 
 ### Groups
 
+Implementation details TBD
+
 ## Core
 
 ### CLI
 
+Implementation details TBD
+
 ### Setup
+
+Implementation details TBD
 
 ### SPV
 
+Implementation details TBD
+
 ### WebRTC
 
+Implementation details TBD
+
 ### Utilities
+
+Implementation details TBD
 
 ## Interface
 
 ### Client
 
+Implementation details TBD
+
 ### Wallet
+
+Implementation details TBD
 
 ### Download
 
+Implementation details TBD
+
 ### Inspector
+
+Implementation details TBD
 
 ### Surfer
 
+Implementation details TBD
+
 [schedgmule]: https://gitlab.com/nerdfiles/schedgmule.com/raw/master/DOCUMENTATION.pdf
 [ccp]: https://gist.githubusercontent.com/nerdfiles/20f58d0b9f12952de85cff10ef96599d/raw/b9e4c4277f2df1d56468d23ca5c0fb0b009241bf/common-consensus-protocols.md
+[pti]: https://github.com/nerdfiles/periodic-table-of-information/tree/master/docs
