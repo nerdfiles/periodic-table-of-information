@@ -173,6 +173,12 @@ evolution of projection in Banach space.
   width="200"
 />
 
+The above is an geometric analogy of a stereographic model found in James J. Gibson's *The Ecological Approach to Visual Perception*:
+
+<img
+  src="https://raw.githubusercontent.com/nerdfiles/periodic-table-of-information/master/docs/images/perspective-projection-on-a-picture-plane-of-square-unit-of-the-ground-out-to-the-horizon.png"
+/>
+
 What we are concerned with in such demonstrations is the theoretical contours
 of the von Neumann supposition that "mind causes collapse." More importantly,
 that the yield of worlds, or Many-worlds, is an entailment of decoherence, as
